@@ -1,2 +1,2 @@
 # N-Bodies-Project
-A gravitational simulation of planetary bodies
+A simulation of gravitational planetary bodies
